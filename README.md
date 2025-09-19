@@ -95,13 +95,11 @@ Based on data from 2019 and 2020 :
    - Top Performing Segment - **Consumers**
    - Least Performing Segment - **Home Office**
 
-#### 4. Category-wise Sales :
+#### 4. Category-wise and Sub-Category-wise Sales :
    - Top Performing Category - **Office Supplies**
-
-#### 5. Sub-Category-wise Sales :
    - Top Performing Sub Category - **Phones**
-
-#### 6. Year-over-Year Trends :
+     
+#### 5. Year-over-Year Trends :
    - Monthly Sales by YoY (2019 vs 2020) :
      
      - **2020 outperformed 2019** consistently across the year.
@@ -112,13 +110,13 @@ Based on data from 2019 and 2020 :
      - **2020 outperformed 2019** across the year except in **April** and **February**.
      - Peaked in **March**, **October** and **December.**
 
-#### 7. Preferred Shipping Mode :
+#### 6. Preferred Shipping Mode :
    - Top Preferred Shipping Mode - **Standard Class**
 
-#### 8. Preferred Payment Mode :
+#### 7. Preferred Payment Mode :
    - Top Preferred Payment Mode - **Cash on Delivery**
 
-#### 9. Sales and Profir by State :
+#### 8. Sales and Profir by State :
    - **California**, **Texas**, and **New York** are highest contributers.
 
 ### Summary Insights :-
