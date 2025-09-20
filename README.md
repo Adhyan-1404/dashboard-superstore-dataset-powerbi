@@ -207,7 +207,7 @@ Over the next 30 days, projected sales are expected to average approximately 3,5
 <h2><a class="anchor" id="author"></a>Author</h2>
 
 Adhyan Saxena    
-🔗 [LinkedIn](www.linkedin.com/in/adhyan1404)  
+🔗 [LinkedIn](https://www.linkedin.com/in/adhyan1404)  
 🔗 [GitHub](https://github.com/Adhyan-1404)
 
 ---
