@@ -1,6 +1,7 @@
 # Sales Dashboard and Forecasting — Power BI
 
 _Analyzing sales performance, regional trends, and forecasted growth to empower data-driven business decisions using Power BI._
+<a id="top"></a>
 
 ---
 
@@ -211,3 +212,4 @@ Adhyan Saxena
 🔗 [GitHub](https://github.com/Adhyan-1404)
 
 ---
+[Return to Top](#top)
