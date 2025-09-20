@@ -13,10 +13,11 @@ _Analyzing sales performance, regional trends, and forecasted growth to empower 
 - <a href="#insights">Insights</a>
 - <a href="#forecast">Forecast</a>
 - <a href="#dashboard">Dashboard</a>
-- <a href="#file-structure">File Structure</a>
+- <a href="#repository-files">Repository Files</a>
 - <a href="#notes">Notes</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
+- <a href="#Author">Author</a>
 
 ---
 
@@ -142,3 +143,71 @@ Over the next 30 days, projected sales are expected to average approximately 3,5
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
+1. Sales Dashboard -
+   - Provides an overview of sales, profit, shipping time, and quantity.
+   - Visualizes sales by region, segment, category, and sub-category.
+   - Includes monthly sales and profit trends year-over-year.
+   - Shows preferred payment and shipping modes.
+   - Features a map displaying sales and profit by state.
+   - Supports filtering by region and quarter for detailed analysis.
+
+   ![Image Alt](https://github.com/Adhyan-1404/dashboard-superstore-dataset-powerbi/blob/bb634819238159b7446829ee88584f97ae7188dd/Image%20Assets/sales%20dashboard.jpg)
+
+2. Forecast Dashboard -
+   - Displays 30-day sales forecasts with historical trend context.
+   - Highlights expected sales fluctuations and confidence intervals.
+   - Shows total sales by state to identify top markets.
+   - Helps plan resources and respond to changing sales trends.
+
+   ![Image Alt](https://github.com/Adhyan-1404/dashboard-superstore-dataset-powerbi/blob/bb634819238159b7446829ee88584f97ae7188dd/Image%20Assets/forecast.jpg)
+
+---
+
+<h2><a class="anchor" id="repository-files"></a>Repository Files</h2>
+
+ - `Sales Dashboard.pbix` – Power BI file containing the interactive dashboard and forecast visuals.
+ - `Sales Dashboard.pdf` – Exported static version of the dashboard for easy sharing or offline review.
+ - `SuperStore_Sales_Dataset.csv` – Raw sales data used as the foundation for analysis and forecasting.
+ - `/Image Assets/` – Folder containing screenshots and images used for documenting data cleaning and transformation steps.
+ - `README.md` – Primary overview file that explains the project structure, analysis workflow, and usage instructions.
+
+---
+
+<h2><a class="anchor" id="notes"></a>Notes</h2>
+
+ - All data cleaning and transformation steps were performed using Power BI Query Editor for transparency and reproducibility.
+ - The forecasting model relies on Power BI’s built-in time series forecasting tools, without external algorithm integration.
+ - The sales forecast is based on historical trends and seasonality from 2019 and 2020; external market factors are not included, so actual sales may vary.
+ - Interactive dashboards allow for flexible exploration across regions, product categories, shipping modes, and timelines.
+ - The static PDF export is provided for easy sharing but does not support interactivity.
+
+---
+
+<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
+
+1. Open Sales `Dashboard.pbix` in Microsoft **Power BI Desktop**.
+2. Ensure the `SuperStore_Sales_Dataset.csv` file is in the correct path for data refresh.
+3. Use interactive filters on the **dashboard** to explore different views and insights.
+4. Access forecasting visuals via the dashboard pages to analyze 30-day sales projections.
+5. Export PDF version `(Sales Dashboard.pdf)` for static reporting if needed.
+
+---
+
+<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+
+- Focus marketing efforts on the South region to address underperformance and tap growth potential.
+- Maintain inventory for high-demand products such as Phones, Chairs, and Binders to meet customer needs.
+- Prioritize targeting the Consumer segment while exploring opportunities in other segments.
+- Support Cash on Delivery as a preferred payment method while expanding alternatives.
+- Plan sales campaigns around key periods especially year-end to maximize revenue and profit.
+- Optimize Standard Class shipping to balance customer preference with delivery speed and reliability.
+
+---
+
+<h2><a class="anchor" id="author"></a>Author</h2>
+
+Adhyan Saxena    
+🔗 [LinkedIn](www.linkedin.com/in/adhyan1404)  
+🔗 [GitHub](https://github.com/Adhyan-1404)
+
+---
